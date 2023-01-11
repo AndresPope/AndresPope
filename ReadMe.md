@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Grupo Acuamatic Projects](https://acuamatic.co)
+- 🔭 I’m currently working on [Grupo Acuamatic's Projects](https://acuamatic.co)
 
 - 🌱 I’m currently learning and improving my skills with **AWS and Scala**
 
